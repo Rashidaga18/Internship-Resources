@@ -1,7 +1,7 @@
 # Internship-Roadmap
 A personalized roadmap to help you land your dream internship! This guide covers skill-building, resume tips, interview prep, and more, tailored to your career goals. Let's make your internship journey a success!
 
-Month 1: Core Programming & Data Structures (Building a Solid Foundation)
+**Month 1: Core Programming & Data Structures (Building a Solid Foundation)**
 
 Goals:
 
@@ -54,7 +54,7 @@ Create a LinkedIn profile and ensure your GitHub is up-to-date with all your pro
 
 Follow tech companies on LinkedIn and engage with their posts.
 
-Month 2: Intermediate Data Structures & Recursion
+**Month 2: Intermediate Data Structures & Recursion**
 
 Goals:
 
@@ -103,7 +103,7 @@ Apply to internships on Internshala or LinkedIn.
 
 Join Telegram groups or Discord channels related to tech internships.
 
-Month 3: Advanced Problem Solving & Dynamic Programming (DP)
+**Month 3: Advanced Problem Solving & Dynamic Programming (DP)**
 
 Goals:
 
@@ -152,7 +152,7 @@ Connect with professionals in your target companies (e.g., Google, Microsoft, Am
 
 Participate in coding challenges and hackathons to gain visibility.
 
-Month 4: Advanced Algorithms & System Design Basics
+**Month 4: Advanced Algorithms & System Design Basics**
 
 Goals:
 
@@ -201,7 +201,7 @@ Reach out to alumni or mentors who have experience in tech internships.
 
 Attend online tech meetups or webinars to build connections.
 
-Month 5: Mock Interviews & Focus on Weak Areas
+**Month 5: Mock Interviews & Focus on Weak Areas**
 
 Goals:
 
@@ -233,7 +233,7 @@ Apply to internships through LinkedIn, AngelList, or Company Career Pages.
 
 Use LinkedIn connections to ask for referrals from employees at target companies.
 
-Month 6: Interview Simulation & Final Push
+**Month 6: Interview Simulation & Final Push**
 
 Goals:
 
