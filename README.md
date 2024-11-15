@@ -1,7 +1,10 @@
 # Internship-Resources
 A personalized roadmap to help you land your dream internship! This guide covers skill-building, resume tips, interview prep, and more, tailored to your career goals. Let's make your internship journey a success!
+
 Month 1: Core Programming & Data Structures (Building a Solid Foundation)
+
 Goals:
+
 Best Case: Understand the core concepts of programming and basic data structures.
 Worst Case: Might take time to grasp some foundational concepts, but will improve with practice.
 Technical Skills:
