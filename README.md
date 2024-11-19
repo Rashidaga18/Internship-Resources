@@ -1,7 +1,7 @@
 # Internship-Roadmap
 A personalized roadmap to help you land your dream internship! This guide covers skill-building, resume tips, interview prep, and more, tailored to your career goals. Let's make your internship journey a success!
 
-****Month 1: Core Programming & Data Structures (Building a Solid Foundation)****
+#Month 1: Core Programming & Data Structures (Building a Solid Foundation)
 
 Goals:
 
